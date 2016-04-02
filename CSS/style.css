@@ -1,18 +1,17 @@
 /* Debug Section  */
-
-.debug {
+/*.debug {
 	background-color: yellow;
 	border: 1px solid red;
-}
+	}
 
-.debug2 {
+	.debug2 {
 	background-color: violet;
-}
+	}
 
-.debug3 {
+	.debug3 {
 	background-color: green;
 	border: 1px solid blue;
-}
+	}
 /* End Debug Sectiom */
 
 
@@ -22,7 +21,6 @@
 	width: 1100px;  
 	margin: 0 auto;
 	height: 40px;
-	
 }
 
 body {
